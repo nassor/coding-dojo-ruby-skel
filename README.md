@@ -1,4 +1,4 @@
-# Coding Dojo Ruby Skelton
+# Coding Dojo Ruby Skeleton
 
 With _Calculator#add_ example.
 
